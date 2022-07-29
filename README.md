@@ -1,3 +1,29 @@
+![gg](https://user-images.githubusercontent.com/86792533/181803754-0ef20790-d270-42ea-bc32-69f0797abd0b.jpg)
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/86792533/181803754-0ef20790-d270-42ea-bc32-69f0797abd0b.jpg)" width="450" height="400">
+
+Visit https://github.com
+
+
+
+
+
+
+# Creating a collapsed section
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
+
 #  Fenced code blocks
 ```
 function test() {
