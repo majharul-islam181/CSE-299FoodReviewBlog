@@ -1,12 +1,3 @@
-![gg](https://user-images.githubusercontent.com/86792533/181803754-0ef20790-d270-42ea-bc32-69f0797abd0b.jpg)
-
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/86792533/181803754-0ef20790-d270-42ea-bc32-69f0797abd0b.jpg)" width="450" height="400">
-
-Visit https://github.com
-
-
-
-
 
 
 # Creating a collapsed section
@@ -129,5 +120,22 @@ Click [here](https://www.linkedin.com/in/majharul-islam181/) to go to my LinkedI
 
 ![](http://i.imgur.com/60bts.gif)
  
+ 
+ 
+ # Adding Additional part 
+# Droping Image from Desktop
+
+![1655315206918](https://user-images.githubusercontent.com/86792533/181807103-7573dac1-25f4-4abf-ba72-75ce3c8c14ed.jpeg)
+
+
+Visit https://github.com
+
+
+<img src="https://github.com/favicon.ico" width="48" height="40">
+
+
+
+
+
 
 
