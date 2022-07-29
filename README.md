@@ -1,4 +1,8 @@
 # CSE-299FoodReviewBlog 
+Our Collection of Recipes Has A Little Something for Everyone. Get Inspired Today. Create Delicious Sun Powered Meals. Get Incredible Solar Cooker Recipes. Subscribe To Newsletter. Browse Categories. Highlights: How-To-Videos Available, Newsletter Available
+
+
+# Creating table 
 
 | FirstName     | LastName      | City  |
 | :------------ |   :---:       | --------: |
@@ -23,10 +27,7 @@
 | Some data | 
 | data | Some long data here | more data |
 
-
-
-
-Colons can be used to align columns.
+### Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -52,7 +53,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ###### The smallest heading
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
-
+# Creating item
 - Item 1
 - Item 2
 - Item 3
@@ -70,10 +71,16 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   * Sub Item B
 
 
-[Link text Here](https://link-url-here.org)
+# Creating link
+
+[Click Here to Youtube](https://www.youtube.com/)
 
 
-Click [here](https://link-url-here.org) to go to my Quora profile.
+# Creating link-text
+Click [here](https://www.linkedin.com/in/majharul-islam181/) to go to my LinkedIn profile.
+
+
+## Adding gif (Example)
 
 ![](http://i.imgur.com/60bts.gif)
  
