@@ -1,3 +1,19 @@
+#  Fenced code blocks
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+# Syntax highlighting
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+
+
 # CSE-299FoodReviewBlog 
 Our Collection of Recipes Has A Little Something for Everyone. 
 Get Inspired Today. Create Delicious Sun Powered Meals. Get Incredible Solar Cooker Recipes. Subscribe To Newsletter. 
