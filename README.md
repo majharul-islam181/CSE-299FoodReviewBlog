@@ -1,5 +1,8 @@
 # CSE-299FoodReviewBlog 
-Our Collection of Recipes Has A Little Something for Everyone. Get Inspired Today. Create Delicious Sun Powered Meals. Get Incredible Solar Cooker Recipes. Subscribe To Newsletter. Browse Categories. Highlights: How-To-Videos Available, Newsletter Available
+Our Collection of Recipes Has A Little Something for Everyone. 
+Get Inspired Today. Create Delicious Sun Powered Meals. Get Incredible Solar Cooker Recipes. Subscribe To Newsletter. 
+# 
+Browse Categories. Highlights: How-To-Videos Available, Newsletter Available
 
 
 # Creating table 
